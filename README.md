@@ -2,7 +2,7 @@
 
   <br/>
   <p align="center">
-    <a href="https://github.com/T-VIJAY"><img align="left" alt="T-VIJAY's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=T-VIJAY&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="120px"/><img  alt="T-VIJAY's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=T-VIJAY&theme=highcontrast&hide_border=true" height="120px"/></a>
+    <a href="https://github.com/T-VIJAY"><img align="left" alt="T-VIJAY's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=T-VIJAY&show_icons=true&count_private=true&theme=highcontrast&hide_border=true" height="150px"/><img  alt="T-VIJAY's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=T-VIJAY&theme=highcontrast&hide_border=true" height="150px"/></a>
 </p>
 
 </br>
