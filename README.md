@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2357F755&size=40&lines=I+am+T.VIJAY;I+am+Game+Developer"></h3>
+<h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2357F755&size=36&center=true&vCenter=true&lines=I+am+T.VIJAY"></h3>
 
   <br/>
   <p align="center">
